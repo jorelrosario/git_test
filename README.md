@@ -1,2 +1,4 @@
 # git_test
-Repository to learn code
+My first githun repo!
+Hello Odin
+
